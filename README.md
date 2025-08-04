@@ -5,4 +5,4 @@
 - Contains animations when scrolling.
 
 
-![Screenshot of the burger shop page](assets/images/banner_photo.png)
+![Screenshot of the ice cream shop](assets/images/banner_photo.png)
